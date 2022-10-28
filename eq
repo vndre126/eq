@@ -9,7 +9,6 @@ class Main {
     int b;
     int c;
     double delta;
-    double deltarq;
     double x1;
     double x2;
     
